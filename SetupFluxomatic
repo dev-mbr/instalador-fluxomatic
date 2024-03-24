@@ -63,14 +63,7 @@ creditos_msg() {
     echo -e "$amarelo=          $branco  Gostaria de contribuir para continuarmos o desenvolvimento deste projeto?            $amarelo=\e[0m"
     echo -e "$amarelo=          $branco                    Você pode fazer uma doação via PIX:                                $amarelo=\e[0m"
     echo -e "$amarelo=                                                                                                 $amarelo=\e[0m"
-    echo -e "$amarelo=                                      pix@bowve.com.br                                     $amarelo=\e[0m"
-    echo -e "$amarelo=                                                                                                 $amarelo=\e[0m"
-    echo -e "$amarelo=          $branco         Se precisar de ajuda/mentoria ou quiser deixar seu feedback                   $amarelo=\e[0m"
-    echo -e "$amarelo=          $branco               Nossa comunidade:$amarelo https://discord.gg/ZvtmFtMt82                         $amarelo=\e[0m"
-    echo -e "$amarelo=                                                                                                 $amarelo=\e[0m"
-    echo -e "$amarelo=          $branco                    ou via WhatsApp (comunidade SetupOrion)                            $amarelo=\e[0m"
-    echo -e "$amarelo=          $amarelo               https://chat.whatsapp.com/LvqP8e7lNPn9Y3QMbbnhfB                        $amarelo=\e[0m"
-    echo -e "$amarelo=                                                                                                 $amarelo=\e[0m"
+    echo -e "$amarelo=                                      douglasmatosbsi@gmail.com                                     $amarelo=\e[0m"
     echo -e "$amarelo===================================================================================================\e[0m"
     echo ""
     echo ""
@@ -2986,7 +2979,7 @@ Link do Portainer: $url_portainer
 Obrigado por utilizar nosso AutoInstalador.
 Caso esse conteudo foi util, não deixe de apoiar nosso projeto.
 
-pix@bowve.com.br
+douglasmatosbsi@gmail.com
 
 Bebam água!
 EOL
