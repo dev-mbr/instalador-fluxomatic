@@ -31,7 +31,7 @@ if [ -e "SetupFluxomatic" ]; then
 fi
 
 # Baixa o script
-curl -sSL https://raw.githubusercontent.com/oriondesign2015/SetupFluxomatic/main/SetupFluxomatic -o SetupFluxomatic
+curl -sSL https://raw.githubusercontent.com/dev-mbr/instalador-fluxomatic/main/SetupFluxomatic -o SetupFluxomatic
 
 # Verifica se o download foi bem-sucedido
 if [ $? -eq 0 ]; then
